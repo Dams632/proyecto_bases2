@@ -15,13 +15,13 @@
       integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
       crossorigin="anonymous"
     />
-    
+    <link rel="shortcut icon" href="../../public/images/php_icon_130857.ico" type="image/x-icon">
   </head>
   <body>
     <div class="container">
       <div class="row justify-content-center p-5">
         <div class="col-sm-6">
-        
+        <img src="../../public/images/bootloader_users_person_people_6080.ico"  width="90">
           <h5>Formulario</h5>
           <hr />
           <form action="javascript:void(0);" onsubmit="app.guardar()">
